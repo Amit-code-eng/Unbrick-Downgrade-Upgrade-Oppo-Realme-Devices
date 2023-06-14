@@ -41,14 +41,13 @@
 # STEPS
 1. Your Device's bootloader should be unlock. if already have the skip this step.
         ## To unlock bootloader
-        - google it or youtube tutorial 
-        - ``` how to unlock bootloader in {device name}```
+        - google it or youtube tutorial ``` how to unlock bootloader in {device name} ```
 2. Now install python 
-        1. [download python](https://www.python.org/downloads/)
-        2. **OR** google it or youtube tutorial on how to install python.
+        1. click -> [download python](https://www.python.org/downloads/)
+        2. **OR** google it or click -> [youtube tutorial](https://www.youtube.com/watch?v=bjE7XQV4s-k) on how to install python.
         3. 
+        4. if you face any [difficulty](https://youtu.be/lezhrFdVSVY) while installing **USE YOUR BRAIN GO RESEARCH IT**
+
+3. 
         
-        
- ```
- klsdjfkldsjg fkkgjldfjgld dg fg dfg df gdfkjg dfkjg dkjfg dflk g jdfkjngdfjg 
- ```
+
