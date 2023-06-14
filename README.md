@@ -1,7 +1,5 @@
 # Unbrick-Downgrade-Upgrade-Oppo-Realme-Devices
 
-\
-\
 
 
 > **Note**
