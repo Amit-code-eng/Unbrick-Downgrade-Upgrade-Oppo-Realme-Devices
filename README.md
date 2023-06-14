@@ -1,6 +1,5 @@
 # Unbrick-Downgrade-Upgrade-Oppo-Realme-Devices
 
-
 <br/>
 
 > **Note**
@@ -8,19 +7,21 @@
 > - Problem Likes : hang, slow, fingerprint not working, etc.
 > - Just want to SAY **GOOO.... SERVICE CENTRE**
 
-
-
+<br/>
 
 > **Warning**
 > - If you are not Techy, please **STAY AWAY**.
 > - If you are Tech Enthusiast and have Secondary Devices then only you should play around with devices if not you might get in trouble.
 > Try This **AT YOUR OWN RISK**.
 
+<br/>
 
 ## Features
 - You can Unbrick Your Device (Oppo/Realme).
 - You can Downgrade to your favourite Android Version.
 - You Can Upgrade to your favourite Android Version.
+
+<br/>
 
 ## Unbrick
 - If your phone got soft bricked then only you can unbricked it.
@@ -30,6 +31,8 @@
     - **OR**
     - if you can't switch off then press ( Power key + Volume Down key + Volume Up key) Simultaneously for 10 to 15 seconds.
 - It doesn't matter if it automatically boot in fastboot mode again and again like ( Screen off then fastboot screen off then ......)
+
+<br/>
 
 ![Fastboot Logo](Fastboot.png)
 
