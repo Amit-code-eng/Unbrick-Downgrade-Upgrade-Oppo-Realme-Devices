@@ -6,6 +6,13 @@
 &nbsp;
 
 
+
+
+
+
+
+
+
 > **Note**
 > - If you have any problem to your device please visit **SERVICE CENTRE**, Realme/Oppo have good service Centre and if problem is not related to hardware, it is very cheap (**Service Charge + Software Problem = (INR 180)
 > - Problem Likes : hang, slow, fingerprint not working, etc.
