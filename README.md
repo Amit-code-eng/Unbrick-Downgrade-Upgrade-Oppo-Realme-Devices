@@ -28,7 +28,7 @@
 - To check it
     - if you can boot in fastboot mode then we can unbricked it.
     - switch off phone then press (Power key + Volume Down key) simultaneously for (5 to 7 seconds) or until you see realme/oppo logo.
-    - **OR**
+      **OR**
     - if you can't switch off then press ( Power key + Volume Down key + Volume Up key) Simultaneously for 10 to 15 seconds.
 - It doesn't matter if it automatically boot in fastboot mode again and again like ( Screen off then fastboot screen off then ......)
 
