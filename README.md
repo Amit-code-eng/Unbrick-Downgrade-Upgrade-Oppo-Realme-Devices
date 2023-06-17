@@ -51,7 +51,7 @@
    3. if you face any [difficulty](https://youtu.be/lezhrFdVSVY) while installing **USE YOUR BRAIN GO RESEARCH IT**
   
 3. Now install [git](https://git-scm.com/)  ##OR## follow  [tutorial (method 2nd)](https://linuxhint.com/upgrade-git-latest-version-windows/)
-4. now install OppoRealme-OFP-Flash tool by git clone
+4. now install [OppoRealme-OFP-Flash tool](https://github.com/italorecife/OppoRealme-OFP-Flash) by git clone
     1. open terminal where you want to install program
     2.  example on desktop => ```go to desktop -> click right with mouse/pad -> select open terminal -> copy the command written below -> paste the command in terminal ```
     3.   ```
