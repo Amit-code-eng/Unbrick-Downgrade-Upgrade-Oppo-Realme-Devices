@@ -39,6 +39,7 @@
 <br/>
 
 # STEPS
+
 1. Your Device's bootloader should be unlock. if already have the skip this step.
    ## To unlock bootloader
    - google it or youtube tutorial
@@ -50,8 +51,9 @@
    2. **OR** google it or click -> [youtube tutorial](https://www.youtube.com/watch?v=bjE7XQV4s-k) on how to install python
    3. if you face any [difficulty](https://youtu.be/lezhrFdVSVY) while installing **USE YOUR BRAIN GO RESEARCH IT**
   
-3. Now install [git](https://git-scm.com/)  ##OR## follow  [tutorial (method 2nd)](https://linuxhint.com/upgrade-git-latest-version-windows/)
-4. now install [OppoRealme-OFP-Flash tool](https://github.com/italorecife/OppoRealme-OFP-Flash) by git clone
+3. Now install [git](https://git-scm.com/)  **OR** follow  [tutorial (method 2nd)](https://linuxhint.com/upgrade-git-latest-version-windows/)
+4. now install [fastboot drivers](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/) or search youtube tutorial
+5. now install [OppoRealme-OFP-Flash tool](https://github.com/italorecife/OppoRealme-OFP-Flash) by git clone
     1. open terminal where you want to install program
     2.  example on desktop => ```go to desktop -> click right with mouse/pad -> select open terminal -> copy the command written below -> paste the command in terminal ```
     3.   ```
@@ -59,5 +61,30 @@
          cd OppoRealme-OFP-Flash
          pip3 install -r requirements.txt
          ```
-        
+   4. Now download stock rom/ofp file for your device by searching on [Oppo Stock Rom](https://oppostockrom.com/)
+   5. ''' extract rom/ofp by winrar or any other extractor -> then open folder find firmware folder -> find (.ofp) extension file -> cut/copy that file and place in  OppoRealme-OFP-Flash ```
+   ![OFP](ofp.png)
+   6. now go to  start search **windows Security** and off all the security
+      ![offsecurity1](img/offsecurity1.png)
+      ![offsecurity2](img/offsecurity2.png)
+      ![offsecurity3](img/offsecurity3.png)
+   8.  ``` open OppoRealme-OFP-Flash folder -> type cmp to open terminal on upper bar -> type python flash.py ```
+      ![cmd](img/cmd.png)
+      ![terminal](img/terminal.png)
+
+   9. ```
+      python flash.py
+      ```
+
+   10. if upper command not work then type
+      ```
+      python3 flash.py
+      ```
+
+   11. ![unbrick](img/unbrick.png)
+   12. if asked region then choose your region and connect your phone to laptop in fastboot mode
+   13. if your phone is fastboot not stable i.e it get off on off on then you have to press unpress volume down key to not go in fastboot loop.
+   14. if your android version before unbrick/previous is same to your downloader stock rom version then you just have to ``` start from fastboot ``` thats it, it may now your phone unbricked.
+   15. if not then you have to install custom recovery for your downloaded ofp android version (example if you have downloade android 12 stock rom then you have to flash android 12 custom recovery).
+   16. now you just have to flash and rom (.ozip or zip) (may be custom or stock).
 
