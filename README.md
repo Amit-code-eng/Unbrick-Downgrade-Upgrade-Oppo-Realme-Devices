@@ -58,6 +58,6 @@
          git clone https://github.com/italorecife/OppoRealme-OFP-Flash
          cd OppoRealme-OFP-Flash
          pip3 install -r requirements.txt
-        ```
+         ```
         
 
