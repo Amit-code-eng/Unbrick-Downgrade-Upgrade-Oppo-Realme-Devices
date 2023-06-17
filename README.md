@@ -34,7 +34,7 @@
 
 <br/>
 
-![Fastboot Logo](Fastboot.png)
+![Fastboot Logo](img/Fastboot.png)
 
 <br/>
 
@@ -63,7 +63,7 @@
          ```
    4. Now download stock rom/ofp file for your device by searching on [Oppo Stock Rom](https://oppostockrom.com/)
    5. ''' extract rom/ofp by winrar or any other extractor -> then open folder find firmware folder -> find (.ofp) extension file -> cut/copy that file and place in  OppoRealme-OFP-Flash ```
-   ![OFP](ofp.png)
+   ![OFP](img/ofp.png)
    6. now go to  start search **windows Security** and off all the security
       ![offsecurity1](img/offsecurity1.png)
       ![offsecurity2](img/offsecurity2.png)
@@ -85,6 +85,7 @@
    12. if asked region then choose your region and connect your phone to laptop in fastboot mode
    13. if your phone is fastboot not stable i.e it get off on off on then you have to press unpress volume down key to not go in fastboot loop.
    14. if your android version before unbrick/previous is same to your downloader stock rom version then you just have to ``` start from fastboot ``` thats it, it may now your phone unbricked.
-   15. if not then you have to install custom recovery for your downloaded ofp android version (example if you have downloade android 12 stock rom then you have to flash android 12 custom recovery).
-   16. now you just have to flash and rom (.ozip or zip) (may be custom or stock).
+   15. now **ON** all the security setting which we have off it.
+   16. if not then you have to install custom recovery for your downloaded ofp android version (example if you have downloade android 12 stock rom then you have to flash android 12 custom recovery).
+   17. now you just have to flash and rom (.ozip or zip) (may be custom or stock).
 
