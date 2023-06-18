@@ -94,8 +94,8 @@
 
 > **Warning**
 > Don't flash this .img
-    1. ``` persist.img -> fingerprint will not work, etc ```
-    2. ``` "oppodycnvbk", "oppostanvbk" -> imei number will get lost ```
-    3. ``` blacklist = ["ocdt", "oppodycnvbk", "oppostanvbk", "opporeserve1", "modem", "persist"] #Partitions with potential risk of HardBrick, IMEI loss and sensors miscalibration ```
+>    1. ``` persist.img -> fingerprint will not work, etc ```
+>    2. ``` "oppodycnvbk", "oppostanvbk" -> imei number will get lost ```
+>    3. ``` blacklist = ["ocdt", "oppodycnvbk", "oppostanvbk", "opporeserve1", "modem", "persist"] #Partitions with potential risk of HardBrick, IMEI loss and sensors miscalibration ```
 > Don't Play with flash.py file if you don't have knowledge (upper 3 points should keep in mind.)
 > ![backlist](img/blacklist.png)
