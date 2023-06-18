@@ -92,3 +92,10 @@
    16. if not then you have to install custom recovery for your downloaded ofp android version (example if you have downloade android 12 stock rom then you have to flash android 12 custom recovery).
    17. now you just have to flash and rom (.ozip or zip) (may be custom or stock).
 
+> **Warning**
+> Don't flash this .img
+    1. ``` persist.img -> fingerprint will not work, etc ```
+    2. ``` "oppodycnvbk", "oppostanvbk" -> imei number will get lost ```
+    3. ``` blacklist = ["ocdt", "oppodycnvbk", "oppostanvbk", "opporeserve1", "modem", "persist"] #Partitions with potential risk of HardBrick, IMEI loss and sensors miscalibration ```
+> Don't Play with flash.py file if you don't have knowledge (upper 3 points should keep in mind.)
+> ![backlist](img/blacklist.png)
